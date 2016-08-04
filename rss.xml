@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CICT]]></title>
+        <description><![CDATA[CICT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Aug 2016 06:59:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Five Four + Marvel Collection]]></title>
+            <description><![CDATA[<article><h1>Five Four + Marvel Collection</h1><p>Some comic book apparel can end up juvenile, but the new Five Four collaboration with Marvel is anything but. In celebration of the impending release of Avengers: Age of Ultron, the Five Four subscription menswear service finds subtlety in the generally loud graphic medium by using Marvel's famous roster of superheroes to inspire its April capsule.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c00f82bc7a96b03780b683692320bb03f3b031f2.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/style/five-four-marvel-collection</link>
+            <guid isPermaLink="false">f1b55864-1d67-43f7-8492-0e950d142cd3</guid>
+            <pubDate>Thu, 04 Aug 2016 06:59:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
